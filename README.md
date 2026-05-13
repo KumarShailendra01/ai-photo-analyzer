@@ -27,5 +27,4 @@ and **Azure Computer Vision API**.
 4. Run the app:
    streamlit run app.py
 
-## Screenshots
-(add a screenshot of your app here)
+
